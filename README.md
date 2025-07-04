@@ -25,7 +25,7 @@ Auto-save to localStorage
 ## 📚 Cara Clone / How to Clone
 
 ```bash
-git clone 
+git clone https://github.com/IzziVanSatoru/-LifeCompass-Decision-Tracker.git
 cd lifecompass-tracker
 npm install
 npm run dev
